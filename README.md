@@ -1,0 +1,1 @@
+# ChangePointDetectionAlgorithmForQuasi-SeasonalSignals
